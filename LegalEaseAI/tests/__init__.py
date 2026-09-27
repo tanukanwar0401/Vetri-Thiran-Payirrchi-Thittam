@@ -1,0 +1,3 @@
+"""
+LegalEase tests.
+"""
